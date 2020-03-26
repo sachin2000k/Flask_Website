@@ -1,0 +1,9 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/ai website",
+    "prod_uri": "mysql://root:@localhost/ai website",
+    "fb_url": "https://facebook.com"
+  }
+}
